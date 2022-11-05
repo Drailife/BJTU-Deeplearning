@@ -1,3 +1,5 @@
 *。gitignore
 *.idea
 *__pycache__
+*.zip
+*.ipynb_checkpoints
